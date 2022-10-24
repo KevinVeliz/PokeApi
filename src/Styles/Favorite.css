@@ -1,0 +1,9 @@
+.card-pokemon-favorite{
+    margin-bottom: 10px;
+    margin-top: 1rem;
+    text-transform: capitalize;
+}
+
+.text-pokemon-favorite{
+    text-align: center;
+}

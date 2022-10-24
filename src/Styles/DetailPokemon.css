@@ -1,0 +1,25 @@
+.id-pokemon{
+    font-size: x-large;
+}
+
+.card-details{
+    justify-content: center;
+    flex: content;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.card-Type{
+    text-align: center;
+    justify-content: center;
+}
+
+.tablepokemon{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 20px;
+    font-size: 15px;
+    text-align: left;
+}

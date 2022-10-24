@@ -1,0 +1,16 @@
+.card-pokemon{
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.name-pokemon{
+    text-align: center;
+}
+
+.button-pokemon{
+    flex: content;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+}
