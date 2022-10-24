@@ -13,3 +13,5 @@
    
 ## Visualización de la parte Frontend
 ![image](https://user-images.githubusercontent.com/65980001/197460237-2719bf74-74f8-4903-a6ed-de7654e3dec4.png)
+![image](https://user-images.githubusercontent.com/65980001/197466306-6a1695ee-1fa2-4c83-a0db-a81ed317d1e9.png)
+![image](https://user-images.githubusercontent.com/65980001/197466343-f45cbbe5-2a0c-48a0-a6a9-31bdf9c54b71.png)
