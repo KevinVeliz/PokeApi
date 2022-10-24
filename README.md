@@ -15,6 +15,10 @@
 <dl>
   <dt>Nota</dt>
   <dd>Se debe tener instalado MongoDB o levantar una instancia en MongoDBAtlas</dd>
+  
+  <dt>Agregar un archivo .env </dt>
+  <dd>Dentro de este archivo se agregará la conexión a MongoDB. Se deja un ejemplo acontinuación de la estructura a tener</dd>
+  <dd>DB_CNN=mongodb+srv://user:password@pokeapi.3ab0ykj.mongodb.net/(nombre de la base de datos)</dd>
 </dl>
 
 ---
