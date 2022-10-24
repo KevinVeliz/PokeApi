@@ -1,5 +1,5 @@
 # EJECUCIÓN DEL FRONTEND
-- Para ejecutar la parte backend de la aplicación de manera local se lo realizará mediante los sigueintes pasos:
+- Para ejecutar la parte Frontend de la aplicación de manera local se lo realizará mediante los sigueintes pasos:
   
   - Clonar el repositorio: Para lo cual clonaremos la rama Frontend ejecutando el siguente comando
      ```
