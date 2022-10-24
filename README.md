@@ -1,7 +1,7 @@
 # EJECUCIÓN DEL FRONTEND
 - Para ejecutar la parte backend de la aplicación de manera local se lo realizará mediante los sigueintes pasos:
   
-  - Clonar el repositorio: Para lo cual clonaremos la rama Backend ejecutando el siguente comando
+  - Clonar el repositorio: Para lo cual clonaremos la rama Frontend ejecutando el siguente comando
      ```
      git clone -b Frontend https://github.com/KevinVeliz/PokeApi.git
      ```
